@@ -1,0 +1,62 @@
+head,
+body,
+footer p,
+ul li {
+  font-family: sans-serif;
+  color: #d6d6d6;
+  line-height: 1.5;
+}
+.title {
+  color: rgb(72, 189, 189);
+  text-align: center;
+  font-size: 70px;
+}
+
+p,
+ul li,
+OL LI {
+  font-size: 22px;
+  text-align: justify;
+}
+.headings {
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: rgb(159, 159, 159);
+  background-color: rgb(102, 102, 102);
+  border: 5px solid #000000;
+}
+li {
+  list-style: decimal;
+}
+aside {
+  background-color: #e6e4e4;
+  border-top: 5px solid #7c7b7b;
+}
+body,
+footer {
+  background-color: #dfdbdb;
+}
+header {
+  background-color: #f0f0f0;
+}
+header,
+body,
+footer,
+aside {
+  background-color: #212121;
+}
+a,
+a:visited {
+  color: #d6d6d6;
+  text-decoration: none;
+}
+a:hover,
+a:active {
+  color: rgb(48, 117, 103);
+  text-decoration: underline;
+}
+
+.conc {
+  text-align: center;
+}
